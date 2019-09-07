@@ -1,7 +1,4 @@
-﻿using System;
-using DataStruct;
-
-namespace ControlWork2
+﻿namespace ControlWork2
 {
     public class Movies : Images
     {
